@@ -1,6 +1,6 @@
 # Dry Beans Classification kaggle
 
-## Reaching 92.85 %
+## Reaching 93.03 %
 
 The dataset consists of features describing the shape of the bean and you're required to predict it's type.
 
